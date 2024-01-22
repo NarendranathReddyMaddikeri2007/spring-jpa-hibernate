@@ -5,4 +5,4 @@ create table course(
     primary key (id)
 );
 
-insert into course (id,name,author) values (1,'Learn AWS', 'narendranath');
+insert into course (id,name,author) values (1,'Learn AWS', 'naren');
